@@ -2,6 +2,8 @@
 
 An app that lets you create a simple workout.
 
+<br>
+
 Installation:
 ```
 npm i
